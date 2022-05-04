@@ -11,8 +11,10 @@ $ git clone https://github.com/hernanmorales-navarrete/IntroBioImageAnalysis.git
 - If you use GoogleColab (see https://colab.research.google.com/):
 	- Upload the notebooks and the image data (tiffs and jpgs)
 - With Anaconda/Miniconda:
+	- Create environment:
+	$ conda create -n py38 python=3.8 anaconda -y
 	- Activate the environment:
- 	$ conda activate py37	
+ 	$ conda activate py38	
  	- Install a few extra libraries:
  	$ conda install scipy scikit-image tifffile
  	- Open a jupyter notebook
