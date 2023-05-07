@@ -33,7 +33,7 @@ $ git clone https://github.com/hernanmorales-navarrete/IntroBioImageAnalysis.git
 - If you use GoogleColab (see https://colab.research.google.com/):
 	- Upload the notebooks and the image data (tiffs and jpgs)
 	
-#### OPTION 12 With Anaconda/Miniconda:
+#### OPTION 2: Anaconda/Miniconda:
 	- Create environment:
 	$ conda create -n py38 python=3.8 anaconda -y
 	- Activate the environment:
