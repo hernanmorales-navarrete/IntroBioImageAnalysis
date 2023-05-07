@@ -41,7 +41,7 @@ One option is to use Google Colab, for which you would need a Google account, wh
  	$ jupyter notebook
 
 ### 1. Basic programming with Python
-= Introduction to prgramming in Python
+- Introduction to prgramming in Python
 	* [Basic_Programming_with_Python.ipynb]Basic_Programming_with_Python.ipynb)
 	* GoogleColab:
  		[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hernanmorales-navarrete/IntroBioImageAnalysis/blob/main/Basic_Programming_with_Python.ipynb)
