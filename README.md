@@ -22,19 +22,14 @@ One option is to use Google Colab, for which you would need a Google account, wh
 
 1. Log into your Google account.
 
-2. Open this notebook: [https://github.com/ciencialatitud0/EPIC_2/blob/main/Day0/my_first_notebook.ipynb](https://github.com/ciencialatitud0/EPIC_2/blob/main/Day0/my_first_python_notebook.ipynb)
+2. Upload the notebooks and the image data (tiffs and jpgs)
 
-3. Clic on "Open in Google Colab".
+3. Open this notebook: [https://github.com/ciencialatitud0/EPIC_2/blob/main/Day0/my_first_notebook.ipynb](https://github.com/ciencialatitud0/EPIC_2/blob/main/Day0/my_first_python_notebook.ipynb)
 
-4. Run all the cells in this notebook. You can place the image of the worked example (which you can find here: https://github.com/ciencialatitud0/EPIC_2/blob/main/Day0/Cotopaxi_volcano.jpeg) or any other image into your "Colab Notebooks" folder in Google Drive.
+4. Click on "Open in Google Colab".
 
-5. If you see a plot of sin(x) vs. x and the image of the Cotopaxi volcano, your local Google Colab works.
+5. Run all the cells in this notebook. You can place the image of the worked example (which you can find here: https://github.com/ciencialatitud0/EPIC_2/blob/main/Day0/Cotopaxi_volcano.jpeg) or any other image into your "Colab Notebooks" folder in Google Drive.
 
-- Please create a local copy of the code and required files by cloning the repository:
-$ git clone https://github.com/hernanmorales-navarrete/IntroBioImageAnalysis.git
-
-- If you use GoogleColab (see https://colab.research.google.com/):
-	- Upload the notebooks and the image data (tiffs and jpgs)
 	
 #### OPTION 2: Anaconda/Miniconda:
 	- Create environment:
