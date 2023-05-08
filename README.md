@@ -27,8 +27,6 @@ One option is to use Google Colab, for which you would need a Google account, wh
 3. Open this notebook: https://github.com/hernanmorales-navarrete/IntroBioImageAnalysis/blob/main/My_first_python_notebook.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//hernanmorales-navarrete/IntroBioImageAnalysis/blob/main/My_first_python_notebook.ipynb)
 
 
-5. Run all the cells in this notebook. You can place the image of the worked example (which you can find here: https://github.com/ciencialatitud0/EPIC_2/blob/main/Day0/Cotopaxi_volcano.jpeg) or any other image into your "Colab Notebooks" folder in Google Drive.
-
 	
 #### OPTION 2: Anaconda/Miniconda:
 	- Create environment:
